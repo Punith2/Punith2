@@ -1,3 +1,7 @@
 *.pyc
 __pycache__
 venv/
+# Node.js dependencies
+node_modules/
+# Config files
+config.js
